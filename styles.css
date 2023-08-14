@@ -260,6 +260,7 @@ section {
 }
 
 .about-containers {
+    margin-left: 1rem;
     gap: 1rem;
 }
 
